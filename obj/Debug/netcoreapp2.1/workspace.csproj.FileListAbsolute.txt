@@ -1,0 +1,23 @@
+/home/treehouse/workspace/bin/Debug/netcoreapp2.1/workspace.deps.json
+/home/treehouse/workspace/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.json
+/home/treehouse/workspace/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.dev.json
+/home/treehouse/workspace/bin/Debug/netcoreapp2.1/workspace.dll
+/home/treehouse/workspace/bin/Debug/netcoreapp2.1/workspace.pdb
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.csprojAssemblyReference.cache
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.csproj.CoreCompileInputs.cache
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.AssemblyInfoInputs.cache
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.AssemblyInfo.cs
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.dll
+/home/treehouse/workspace/obj/Debug/netcoreapp2.1/workspace.pdb
+/Users/matt/Desktop/C# Catfood Store/bin/Debug/netcoreapp2.1/workspace.deps.json
+/Users/matt/Desktop/C# Catfood Store/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.json
+/Users/matt/Desktop/C# Catfood Store/bin/Debug/netcoreapp2.1/workspace.runtimeconfig.dev.json
+/Users/matt/Desktop/C# Catfood Store/bin/Debug/netcoreapp2.1/workspace.dll
+/Users/matt/Desktop/C# Catfood Store/bin/Debug/netcoreapp2.1/workspace.pdb
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.csprojAssemblyReference.cache
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.AssemblyInfoInputs.cache
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.AssemblyInfo.cs
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.csproj.CoreCompileInputs.cache
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.dll
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.pdb
+/Users/matt/Desktop/C# Catfood Store/obj/Debug/netcoreapp2.1/workspace.genruntimeconfig.cache
